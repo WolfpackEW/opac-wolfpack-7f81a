@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 50
       background_image_size: contain
       background_image_repeat: repeat
-    subtitle: Scientifically known as ... Achille
+    subtitle: Scientifically known as ... Artemisia pycnocephalia 'David's Choice'
   - type: features_section
     title: Features
     features:
