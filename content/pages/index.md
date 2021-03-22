@@ -26,10 +26,7 @@ sections:
         align: left
         image_alt: Feature 1 placeholder image
         image_position: left
-        actions:
-          - url: /features
-            style: secondary
-            no_follow: true
+        actions: []
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
