@@ -17,7 +17,7 @@ sections:
       background_image_repeat: repeat
     subtitle: Scientifically known as ... Artemisia pycnocephalia 'David's Choice'
   - type: features_section
-    title: Description
+    title: Profile
     features:
       - title: OPAC
         content: >
