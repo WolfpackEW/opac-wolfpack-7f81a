@@ -4,13 +4,7 @@
     "header": {
         "title": "Sensory Garden at ACMG - Quarry Lakes",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            }
-        ]
+        "nav_links": []
     },
     "footer": {
         "has_nav": true,
