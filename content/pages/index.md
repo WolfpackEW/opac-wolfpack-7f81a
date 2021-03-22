@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/4.png
+    image: images/Beach Sagewort.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
