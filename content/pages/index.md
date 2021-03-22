@@ -106,6 +106,8 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
-  description: 'Profile for the plant commonly known as Beach Sagewort which is located in '
+  description: >-
+    Profile for the plant commonly known as Beach Sagewort which is located in
+    the Sensory Garden.
 layout: advanced
 ---
