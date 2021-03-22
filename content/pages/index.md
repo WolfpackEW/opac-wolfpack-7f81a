@@ -28,6 +28,7 @@ sections:
         actions:
           - url: /features
             style: secondary
+            no_follow: true
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
