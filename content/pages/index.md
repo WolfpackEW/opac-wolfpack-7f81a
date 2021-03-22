@@ -21,7 +21,7 @@ sections:
     background:
       background_color: gray
       background_image: images/dark green background.png
-      background_image_opacity: 10
+      background_image_opacity: 1
       background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
