@@ -23,7 +23,7 @@ sections:
       background_image: images/dark green background.png
       background_image_opacity: 20
       background_image_size: contain
-      background_image_repeat: no-repeat
+      background_image_repeat: repeat
   - type: features_section
     title: Features
     features:
