@@ -106,5 +106,6 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
+  description: Profi
 layout: advanced
 ---
