@@ -82,7 +82,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: ACMG - Quarry Lakes - Beach Sagewort
   extra:
     - name: 'og:type'
       value: website
