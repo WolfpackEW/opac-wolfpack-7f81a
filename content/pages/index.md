@@ -106,6 +106,6 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
-  description: Profi
+  description: 'Profile for the plant commonly known as Beach Sagewort which is located in '
 layout: advanced
 ---
