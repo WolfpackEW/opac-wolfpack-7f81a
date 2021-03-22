@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Beach Sagewort
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     align: center
     image: images/Beach Sagewort.jpg
     image_alt: Hero placeholder image
