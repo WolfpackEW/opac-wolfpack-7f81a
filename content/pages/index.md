@@ -23,7 +23,6 @@ sections:
         content: |
           ### Perennial with feathery leaves, white flowers. Good habitat plant.
         align: left
-        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: left
         actions:
